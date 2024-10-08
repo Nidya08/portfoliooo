@@ -1,0 +1,22 @@
+.overlay{
+    background-image: url(https://inchoo.net/wp-content/uploads/2019/06/negative-key-feauterd.jpg);
+    height: 650px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.heading{
+    margin-top: -400px;
+    margin-left: 70px;
+    color: white;
+}
+
+.para{
+    letter-spacing: 10px;
+    color: white;
+}
+
+.nav{
+    position: sticky;
+    top: 0;
+}
